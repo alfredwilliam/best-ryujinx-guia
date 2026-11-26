@@ -161,4 +161,4 @@ cinco minutos.
 
 ---
 
-*Ryujinx · Actualizado 2026-11-25 · Compartido bajo licencia MIT*
+*Ryujinx · Actualizado 2026-11-26 · Compartido bajo licencia MIT*
